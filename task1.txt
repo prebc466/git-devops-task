@@ -1,3 +1,5 @@
 Hello
 I successfully completed the Devops Course.
 Thank you MicroDegree.
+
+rmdir -r file.txt
